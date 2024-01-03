@@ -1,0 +1,18 @@
+
+ˆ
+java:S1192 "kDefine a constant instead of duplicating this literal "YÄ±ÄŸÄ±tÄ±n en Ã¼stÃ¼nde bulunan eleman : " 3 times.(ÅÁ†¾8Û†®ªÌ1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÄåÁúıÿÿÿÿ8å†®ªÌ1
+G	java:S106 "+Replace this use of System.out by a logger.(ÅÁ†¾8æ†®ªÌ1
+L	java:S106!"+Replace this use of System.out by a logger.(›ùíôøÿÿÿÿ8ç†®ªÌ1
+G	java:S1060"+Replace this use of System.out by a logger.(¾ºäÒ8é†®ªÌ1
+G	java:S1063"+Replace this use of System.out by a logger.(ÅÁ†¾8é†®ªÌ1
+G	java:S1068"+Replace this use of System.out by a logger.(ÅÁ†¾8é†®ªÌ1
+G	java:S106E"+Replace this use of System.out by a logger.(¼Ğ¸ö8î†®ªÌ1
+L	java:S106G"+Replace this use of System.out by a logger.(ëŞ§¶ÿÿÿÿÿ8ï†®ªÌ1
+G	java:S106J"+Replace this use of System.out by a logger.( »êê8ï†®ªÌ1
+L	java:S106N"+Replace this use of System.out by a logger.(Îˆ§şÿÿÿÿ8¹°ªÌ1
+L	java:S106R"+Replace this use of System.out by a logger.(ÖßƒÅøÿÿÿÿ8–ä°ªÌ1
+G	java:S106W"+Replace this use of System.out by a logger.(Ø®ÏÃ8”îµªÌ1
+L	java:S106Y"+Replace this use of System.out by a logger.(öö˜„ûÿÿÿÿ8Ÿï¼ªÌ1
+N
+java:S1144"1Remove this unused private "stackExample" method.(ĞÒä©8ğ†®ªÌ1

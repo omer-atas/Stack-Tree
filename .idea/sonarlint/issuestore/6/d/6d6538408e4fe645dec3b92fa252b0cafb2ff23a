@@ -1,0 +1,11 @@
+
+	java:S116	"cRename this field "DEFAULT_INITIAL_CAPACITY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è×îñ8îšïŸÌ1
+L	java:S106"+Replace this use of System.out by a logger.(ïÐ‘áÿÿÿÿÿ8€›ïŸÌ1
+L	java:S106%"+Replace this use of System.out by a logger.(ïÐ‘áÿÿÿÿÿ8…›ïŸÌ1
+F	java:S106'"+Replace this use of System.out by a logger.(îÑ¢j8ˆ›ïŸÌ1
+L	java:S106)"+Replace this use of System.out by a logger.(…ÿÞ•þÿÿÿÿ8Š›ïŸÌ1
+L	java:S106+"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8Œ›ïŸÌ1
+^
+java:S1126<"AReplace this if-then-else statement by a single return statement.(¿ý–8“›ïŸÌ1
+c
+java:S1126D"AReplace this if-then-else statement by a single return statement.(¼¾¢Äøÿÿÿÿ8–›ïŸÌ1
